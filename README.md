@@ -3,7 +3,7 @@
 
 Brush up your skills in RGB color model with this fun and interactive game. Guess the RGB correct and win! Option to switch between 2 difficulty level.
 I have created this to get to know more about the web development.
-Special Thnaks to the Udemy course. 
+Special Thanks to the Udemy course. 
 
 ## Getting Started
 
