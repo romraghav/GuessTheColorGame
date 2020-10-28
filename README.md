@@ -1,7 +1,9 @@
 # RGB Color Game
 [PLAY](https://omgraghav.github.io/GuessTheColorGame/)
 
-Brush up your skills in RGB color model with this fun and interactive game. Guess the RGB correct and win! Option to switch between 2 difficulty level. 
+Brush up your skills in RGB color model with this fun and interactive game. Guess the RGB correct and win! Option to switch between 2 difficulty level.
+I have created this to get to know more about the web development.
+Special Thanks to the Udemy course. 
 
 ## Getting Started
 
